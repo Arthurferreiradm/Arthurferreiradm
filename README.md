@@ -1,4 +1,4 @@
-Oi meu mone é Arthur Ferreira
+Oi meu nome é Arthur Ferreira
 
 - 🔭  Hoje trabalho com frond_end
 - 🌱 Estudando Angular, React, Bootstrep
