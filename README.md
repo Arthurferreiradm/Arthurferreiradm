@@ -6,12 +6,9 @@
 - 📫 contacte-me no email:arthur_ferreira01@proton.me
 - 😄 Pronouns: ele/dele
 
-<div>
-   <a href="https://github.com/Arthurferreiradm">
-  <img right ="230em" src="https://github-readme-stats.vercel.app/api?username=Arthurferreiradm&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurferreiradm&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-<br>
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=)](https://github.com/anuraghazra/github-readme-stats)
+
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
